@@ -1,4 +1,4 @@
-# Div N
+# Harekaze CTF 2018: Div N
 
 ## description
 
@@ -28,6 +28,8 @@ Disassembly of section .text:
   1e:	c3                   	retq   
 $ echo "HarekazeCTF{$N}" > /dev/null
 ```
+
+(Rev, 100 points)
 
 ## solution
 
