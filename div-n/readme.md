@@ -3,7 +3,6 @@
 ## description
 
 ```
-$ N=974873638438446
 $ cat foo.c
 long long div(long long x) {
     return x / N;
